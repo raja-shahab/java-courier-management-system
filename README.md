@@ -23,11 +23,14 @@ Not Delivered Orders: View orders that are pending delivery.
 
 
 Authentication
+
 Login: Secure login functionality for both administrators and customers.
 SignUp: Register new customers with the system.
 
 
+
 - Installation
+  
 Clone the Repository.
 Open Project in NetBeans.
 Run the project in NetBeans.
@@ -35,7 +38,8 @@ Run the project in NetBeans.
 Ensure all dependencies are resolved and the application launches successfully.
 
 
-- Technologies Used
+- Technologies Used:
+
 Java
 NetBeans IDE
 MySQL
